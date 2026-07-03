@@ -6,8 +6,15 @@ import lanelet2
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
+import os
+from pathlib import Path
 
-PACKAGE_DIR = Path("/home/subash/DiskD/RoboticsWorks/LaneLog/src/lanelog_curator")
+PACKAGE_DIR = Path(
+    os.environ.get(
+        "LANELOG_PACKAGE_DIR",
+        "/lanelog_ws/src/lanelog_curator",
+    )
+)
 RUN_SCRIPT = PACKAGE_DIR / "scripts" / "run_pipeline.sh"
 MAP_DIR = PACKAGE_DIR / "data" / "maps"
 LOG_DIR = PACKAGE_DIR / "data" / "raw_logs"
