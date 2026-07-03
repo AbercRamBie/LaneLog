@@ -1,9 +1,0 @@
-{
-  "total_frames": 200,
-  "matched_frames": 200,
-  "far_from_lanelet_frames": 0,
-  "object_ahead_close_frames": 200,
-  "low_confidence_label_frames": 8,
-  "unrealistic_speed_frames": 4,
-  "quality_issue_frames": 11
-}
