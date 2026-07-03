@@ -1,0 +1,29 @@
+# ROS 2 / colcon build outputs
+build/
+install/
+log/
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit/cache
+.streamlit/secrets.toml
+.cache/
+.pytest_cache/
+
+# Generated pipeline outputs
+src/lanelog_curator/outputs/*
+!src/lanelog_curator/outputs/.gitkeep
+
+# Large/temp datasets or cloned repos
+src/lanelog_curator/data/real/
+src/lanelog_curator/external/
+
+# Editor/system files
+.vscode/
+.idea/
+.DS_Store
