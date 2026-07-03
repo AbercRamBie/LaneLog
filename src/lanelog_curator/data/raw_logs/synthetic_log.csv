@@ -1,0 +1,11 @@
+timestamp,ego_x,ego_y,ego_speed_mps,object_id,object_x,object_y,object_class,label_source,label_confidence
+0,0.0,0.0,8.2,obj_001,8.0,0.5,vehicle,auto,0.93
+1,2.0,0.1,8.5,obj_001,10.0,0.4,vehicle,auto,0.91
+2,4.0,0.1,8.7,obj_001,12.0,0.5,vehicle,auto,0.88
+3,6.0,0.2,9.1,obj_001,13.0,0.8,vehicle,auto,0.65
+4,8.0,0.2,9.0,obj_001,15.0,0.6,vehicle,auto,0.96
+5,10.0,0.3,70.0,obj_001,16.0,0.9,vehicle,auto,0.92
+6,12.0,0.3,8.6,obj_001,17.0,0.4,vehicle,auto,0.58
+7,14.0,0.4,8.4,obj_001,20.0,0.8,vehicle,auto,0.90
+8,1000.0,1000.0,8.1,obj_001,1008.0,1000.5,vehicle,auto,0.95
+9,18.0,0.4,8.3,obj_001,25.0,0.7,vehicle,auto,0.89

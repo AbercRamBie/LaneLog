@@ -1,0 +1,4 @@
+source;share/lanelog_curator/local_setup.bash
+source;share/lanelog_curator/local_setup.dsv
+source;share/lanelog_curator/local_setup.sh
+source;share/lanelog_curator/local_setup.zsh

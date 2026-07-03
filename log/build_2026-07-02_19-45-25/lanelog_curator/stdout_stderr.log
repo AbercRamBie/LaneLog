@@ -1,0 +1,46 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Found mrt_cmake_modules: 1.0.11 (/opt/ros/jazzy/share/mrt_cmake_modules/cmake)
+-- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.83.0/BoostConfig.cmake (found version "1.83.0") found components: wserialization thread random serialization log_setup prg_exec_monitor wave system chrono filesystem locale timer date_time regex graph program_options unit_test_framework log atomic iostreams 
+-- Found OpenMP_C: -fopenmp (found version "4.5") 
+-- Found OpenMP_CXX: -fopenmp (found version "4.5") 
+-- Found OpenMP: TRUE (found version "4.5")  
+-- Found pugixml: /usr/lib/x86_64-linux-gnu/libpugixml.so  
+-- Found PkgConfig: /usr/bin/pkg-config (found version "1.8.1") 
+-- Found GeographicLib: /usr/lib/x86_64-linux-gnu/libGeographicLib.so  
+-- Configuring done (3.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/subash/DiskD/RoboticsWorks/LaneLog/build/lanelog_curator
+[ 50%] [32mBuilding CXX object CMakeFiles/lanelog_curator.dir/src/main.cpp.o[0m
+[100%] [32m[1mLinking CXX executable lanelog_curator[0m
+[100%] Built target lanelog_curator
+-- Install configuration: ""
+-- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/lib/lanelog_curator/lanelog_curator
+-- Set non-toolchain portion of runtime path of "/home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/lib/lanelog_curator/lanelog_curator" to ""
+-- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/ament_index/resource_index/package_run_dependencies/lanelog_curator
+-- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/ament_index/resource_index/parent_prefix_path/lanelog_curator
+-- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/environment/ament_prefix_path.sh
+-- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/environment/ament_prefix_path.dsv
+-- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/environment/path.sh
+-- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/environment/path.dsv
+-- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/local_setup.bash
+-- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/local_setup.sh
+-- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/local_setup.zsh
+-- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/local_setup.dsv
+-- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/package.dsv
+-- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/ament_index/resource_index/packages/lanelog_curator
+-- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/cmake/lanelog_curatorConfig.cmake
+-- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/cmake/lanelog_curatorConfig-version.cmake
+-- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/package.xml

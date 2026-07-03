@@ -1,0 +1,52 @@
+[0.021s] Invoking command in '/home/subash/DiskD/RoboticsWorks/LaneLog/build/lanelog_curator': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/subash/DiskD/RoboticsWorks/LaneLog/src/lanelog_curator -DPython3_EXECUTABLE=/usr/bin/python3 -DCMAKE_INSTALL_PREFIX=/home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator
+[0.114s] -- The C compiler identification is GNU 13.3.0
+[0.251s] -- The CXX compiler identification is GNU 13.3.0
+[0.293s] -- Detecting C compiler ABI info
+[0.528s] -- Detecting C compiler ABI info - done
+[0.559s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.559s] -- Detecting C compile features
+[0.561s] -- Detecting C compile features - done
+[0.588s] -- Detecting CXX compiler ABI info
+[0.853s] -- Detecting CXX compiler ABI info - done
+[0.884s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.885s] -- Detecting CXX compile features
+[0.886s] -- Detecting CXX compile features - done
+[0.897s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.182s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.548s] -- Found mrt_cmake_modules: 1.0.11 (/opt/ros/jazzy/share/mrt_cmake_modules/cmake)
+[2.046s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.83.0/BoostConfig.cmake (found version "1.83.0") found components: wserialization thread random serialization log_setup prg_exec_monitor wave system chrono filesystem locale timer date_time regex graph program_options unit_test_framework log atomic iostreams 
+[2.765s] -- Found OpenMP_C: -fopenmp (found version "4.5") 
+[3.003s] -- Found OpenMP_CXX: -fopenmp (found version "4.5") 
+[3.004s] -- Found OpenMP: TRUE (found version "4.5")  
+[3.028s] -- Found pugixml: /usr/lib/x86_64-linux-gnu/libpugixml.so  
+[3.045s] -- Found PkgConfig: /usr/bin/pkg-config (found version "1.8.1") 
+[3.059s] -- Found GeographicLib: /usr/lib/x86_64-linux-gnu/libGeographicLib.so  
+[3.223s] -- Configuring done (3.2s)
+[3.252s] -- Generating done (0.0s)
+[3.259s] -- Build files have been written to: /home/subash/DiskD/RoboticsWorks/LaneLog/build/lanelog_curator
+[3.278s] Invoked command in '/home/subash/DiskD/RoboticsWorks/LaneLog/build/lanelog_curator' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/subash/DiskD/RoboticsWorks/LaneLog/src/lanelog_curator -DPython3_EXECUTABLE=/usr/bin/python3 -DCMAKE_INSTALL_PREFIX=/home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator
+[3.281s] Invoking command in '/home/subash/DiskD/RoboticsWorks/LaneLog/build/lanelog_curator': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/subash/DiskD/RoboticsWorks/LaneLog/build/lanelog_curator -- -j24 -l24
+[3.416s] [ 50%] [32mBuilding CXX object CMakeFiles/lanelog_curator.dir/src/main.cpp.o[0m
+[16.055s] [100%] [32m[1mLinking CXX executable lanelog_curator[0m
+[16.249s] [100%] Built target lanelog_curator
+[16.281s] Invoked command in '/home/subash/DiskD/RoboticsWorks/LaneLog/build/lanelog_curator' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/subash/DiskD/RoboticsWorks/LaneLog/build/lanelog_curator -- -j24 -l24
+[16.308s] Invoking command in '/home/subash/DiskD/RoboticsWorks/LaneLog/build/lanelog_curator': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/subash/DiskD/RoboticsWorks/LaneLog/build/lanelog_curator
+[16.328s] -- Install configuration: ""
+[16.329s] -- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/lib/lanelog_curator/lanelog_curator
+[16.329s] -- Set non-toolchain portion of runtime path of "/home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/lib/lanelog_curator/lanelog_curator" to ""
+[16.330s] -- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/ament_index/resource_index/package_run_dependencies/lanelog_curator
+[16.330s] -- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/ament_index/resource_index/parent_prefix_path/lanelog_curator
+[16.331s] -- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/environment/ament_prefix_path.sh
+[16.332s] -- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/environment/ament_prefix_path.dsv
+[16.332s] -- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/environment/path.sh
+[16.332s] -- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/environment/path.dsv
+[16.333s] -- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/local_setup.bash
+[16.333s] -- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/local_setup.sh
+[16.333s] -- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/local_setup.zsh
+[16.333s] -- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/local_setup.dsv
+[16.334s] -- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/package.dsv
+[16.334s] -- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/ament_index/resource_index/packages/lanelog_curator
+[16.334s] -- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/cmake/lanelog_curatorConfig.cmake
+[16.335s] -- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/cmake/lanelog_curatorConfig-version.cmake
+[16.335s] -- Installing: /home/subash/DiskD/RoboticsWorks/LaneLog/install/lanelog_curator/share/lanelog_curator/package.xml
+[16.337s] Invoked command in '/home/subash/DiskD/RoboticsWorks/LaneLog/build/lanelog_curator' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/subash/DiskD/RoboticsWorks/LaneLog/build/lanelog_curator

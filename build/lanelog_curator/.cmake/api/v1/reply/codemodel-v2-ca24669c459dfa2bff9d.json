@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-57e96bbec0edd2e4f7e1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lanelog_curator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lanelog_curator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lanelog_curator-4de1a820623c6251a786.json",
+					"name" : "lanelog_curator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lanelog_curator_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lanelog_curator_uninstall-a08f5a5d42a1fb090ef7.json",
+					"name" : "lanelog_curator_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-07208a18f3cc61b209d0.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/subash/DiskD/RoboticsWorks/LaneLog/build/lanelog_curator",
+		"source" : "/home/subash/DiskD/RoboticsWorks/LaneLog/src/lanelog_curator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
